@@ -1,4 +1,4 @@
-FROM docker:stable
+FROM docker:29.2.0
 
 RUN apk add --update bash
 
